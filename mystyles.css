@@ -1,0 +1,33 @@
+#title>h1{
+
+  font-weight: bolder;
+
+
+}
+#display
+{    margin-top:5%;
+    height:3em;
+    border: 1px solid black;
+}
+#buttonbox{
+  margin-top:2%;
+}
+#contact{
+    position:absolute;
+   top:80%;
+   bottom:0;
+   right:0;
+   left:0;
+   margin-top: 5%;
+}
+.btn{
+ border: 1px solid black;
+ font-weight: bold;
+ margin:3px 0 3px 0;
+}
+
+#code{
+    font-size:25px;
+font-weight: bolder;
+}
+
