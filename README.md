@@ -1,10 +1,10 @@
 # jscalc
           # A simple Responsive Jquery calculator
-Javascript Functions used :
+#Javascript Functions used :
 #eval ()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
 
-includes()
+#includes()
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/includes
 
 
