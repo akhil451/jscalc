@@ -11,14 +11,15 @@
 }
 #buttonbox{
   margin-top:2%;
-}
+
+margin-bottom:3%;}
 #contact{
     position:absolute;
 
    bottom:1%;
    right:0;
    left:0;
-   margin-top: 5%;
+   margin-top: 20px;
 }
 .btn{
  border: 1px solid black;

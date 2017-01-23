@@ -1,3 +1,11 @@
 # jscalc
+          # A simple Responsive Jquery calculator
+Javascript Functions used :
+#eval ()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
 
-![](https://cloud.githubusercontent.com/assets/16731293/22162014/baa5aa60-df72-11e6-98e2-372c0c594886.PNG)
+includes()
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/includes
+
+
+![](https://cloud.githubusercontent.com/assets/16731293/22215327/f50d8984-e1c0-11e6-8101-65a87f2bc975.PNG)
